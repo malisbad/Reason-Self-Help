@@ -5,5 +5,5 @@ It's entirely for myself, and some of the things kept there may seem blatently o
 else. Please feel free to check it out if you're interested though.
 
 #### Better Resources
-(ReasonML Forums)[https://reasonml.chat/]
-(ReasonML Discord Server)[https://discord.gg/reasonml]
+[ReasonML Forums](https://reasonml.chat/)  
+[ReasonML Discord Server](https://discord.gg/reasonml)
